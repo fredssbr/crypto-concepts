@@ -1,0 +1,25 @@
+{
+  "name": "crypto-concepts",
+  "version": "1.0.0",
+  "description": "Source code for testing cryptography concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredssbr/crypto-concepts.git"
+  },
+  "keywords": [
+    "cryptography"
+  ],
+  "author": "Frederico Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredssbr/crypto-concepts/issues"
+  },
+  "homepage": "https://github.com/fredssbr/crypto-concepts#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
